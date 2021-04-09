@@ -1,0 +1,6 @@
+<?php
+
+
+print "WELCOME TO THE OPENSHIFT WORLD. THIS IS SESSION SECOND..!!";
+
+?>
